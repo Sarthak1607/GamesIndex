@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [GameTvCatalouge]">
+  <listeners>
+    <listener class-name="com.framework.Utility.Listners"/>
+  </listeners>
+  <test name="GameTvCatalouge(failed)">
+    <classes>
+      <class name="com.framework.testScripts.CreatingGameCatalouge">
+        <methods>
+          <include name="closeDriver"/>
+          <include name="steup"/>
+          <include name="NumberofTournamnets"/>
+        </methods>
+      </class> <!-- com.framework.testScripts.CreatingGameCatalouge -->
+    </classes>
+  </test> <!-- GameTvCatalouge(failed) -->
+</suite> <!-- Failed suite [GameTvCatalouge] -->

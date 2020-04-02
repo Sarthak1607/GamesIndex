@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="GameTvCatalouge" duration-ms="486405" started-at="2020-04-02T17:38:13Z" finished-at="2020-04-02T17:46:20Z">
+    <groups>
+    </groups>
+    <test name="GameTvCatalouge" duration-ms="486405" started-at="2020-04-02T17:38:13Z" finished-at="2020-04-02T17:46:20Z">
+      <class name="com.framework.testScripts.CreatingGameCatalouge">
+        <test-method status="PASS" signature="steup()[pri:0, instance:com.framework.testScripts.CreatingGameCatalouge@7cd62f43]" name="steup" is-config="true" duration-ms="41" started-at="2020-04-02T23:08:13Z" finished-at="2020-04-02T23:08:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- steup -->
+        <test-method status="PASS" signature="writeFirstRow()[pri:1, instance:com.framework.testScripts.CreatingGameCatalouge@7cd62f43]" name="writeFirstRow" duration-ms="524" started-at="2020-04-02T23:08:13Z" finished-at="2020-04-02T23:08:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeFirstRow -->
+        <test-method status="PASS" signature="gototheUrl()[pri:2, instance:com.framework.testScripts.CreatingGameCatalouge@7cd62f43]" name="gototheUrl" duration-ms="208630" started-at="2020-04-02T23:08:14Z" finished-at="2020-04-02T23:11:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gototheUrl -->
+        <test-method status="PASS" signature="NumberofTournamnets()[pri:3, instance:com.framework.testScripts.CreatingGameCatalouge@7cd62f43]" name="NumberofTournamnets" duration-ms="274700" started-at="2020-04-02T23:11:43Z" finished-at="2020-04-02T23:16:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NumberofTournamnets -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.framework.testScripts.CreatingGameCatalouge@7cd62f43]" name="closeDriver" is-config="true" duration-ms="2259" started-at="2020-04-02T23:16:17Z" finished-at="2020-04-02T23:16:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.framework.testScripts.CreatingGameCatalouge -->
+    </test> <!-- GameTvCatalouge -->
+  </suite> <!-- GameTvCatalouge -->
+</testng-results>

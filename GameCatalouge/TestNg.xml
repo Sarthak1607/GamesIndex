@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="GameTvCatalouge">
+<listeners>
+		<listener class-name="com.framework.Utility.Listners" />
+	</listeners>
+	<test thread-count="2" name="GameTvCatalouge">
+		<classes>
+			<class
+				name="com.framework.testScripts.CreatingGameCatalouge" />
+		</classes>
+	</test>
+</suite>
